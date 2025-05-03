@@ -1,0 +1,26 @@
+{
+    "finetuned/t5-small-wikisql": {
+        "exact_match": 0.2811437208716463,
+        "rouge2": 0.7955431850004638,
+        "bleu": 66.94452735775545,
+        "inference_time": 55.07756233215332
+    },
+    "finetuned/codet5-small-wikisql": {
+        "exact_match": 0.3906663307721375,
+        "rouge2": 0.8253113077507275,
+        "bleu": 73.3629807617083,
+        "inference_time": 54.96487259864807
+    },
+    "finetuned/bart-base-wikisql": {
+        "exact_match": 0.46126716211109714,
+        "rouge2": 0.8654596361731219,
+        "bleu": 78.51107965711884,
+        "inference_time": 590.576868057251
+    },
+    "finetuned/codet5-base-wikisql": {
+        "exact_match": 0.46070034009321076,
+        "rouge2": 0.8535379267983898,
+        "bleu": 77.85296732210243,
+        "inference_time": 167.9024682044983
+    }
+}

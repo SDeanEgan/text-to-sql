@@ -1,0 +1,16 @@
+{
+    "claude-3-7-sonnet-20250219": {
+        "exact_match_strict": 0.30885721557648255,
+        "exact_match_relaxed": 0.6635276151692543,
+        "rouge2": 0.9125765505521157,
+        "bleu": 76.36535606324205,
+        "inference_time": 21206.04
+    },
+    "codet5-base-sql-create-context": {
+        "exact_match_strict": 0.8240010180707559,
+        "exact_match_relaxed": 0.8862305930262153,
+        "rouge2": 0.9825409086504779,
+        "bleu": 97.28652762042714,
+        "inference_time": 106.53001141548157
+    }
+}
